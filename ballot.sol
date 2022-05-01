@@ -57,10 +57,12 @@ contract Ballot {
             _;
     }
 
+    // @return get starting time
     function getStartTime() public view returns (uint) {
         return startTime;
     }
 
+    // @return get actual time
     function getActualTime() public view returns (uint) {
         return block.timestamp;
     }

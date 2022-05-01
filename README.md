@@ -1,2 +1,2 @@
-# ZKP
-Zero Knowledge Proof Answers of the background verification by Deivitto
+# ZKDAO
+Zero Knowledge Dao background assignment by Deivitto

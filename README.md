@@ -1,2 +1,2 @@
 # ZKP
-Zero Knowledge Proof Deivitto
+Zero Knowledge Proof Answers of the background verification by Deivitto
